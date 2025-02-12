@@ -1,0 +1,10 @@
+2025-02-12 19:09:21,053[INFO][MainProcess][MainThread]: total weight:  486
+2025-02-12 19:09:21,053[INFO][MainProcess][MainThread]: random data generating time:  0.005 s
+2025-02-12 19:09:21,877[INFO][MainProcess][MainThread]: number of nodes:  50
+2025-02-12 19:09:21,877[INFO][MainProcess][MainThread]: node can served by uav:  [41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+2025-02-12 19:09:21,878[INFO][MainProcess][MainThread]: >>> VRP model, load limit mode, start
+2025-02-12 19:12:40,337[INFO][MainProcess][MainThread]: total weight:  486
+2025-02-12 19:12:40,338[INFO][MainProcess][MainThread]: random data generating time:  0.007 s
+2025-02-12 19:12:40,866[INFO][MainProcess][MainThread]: number of nodes:  50
+2025-02-12 19:12:40,867[INFO][MainProcess][MainThread]: node can served by uav:  [41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+2025-02-12 19:12:40,908[INFO][MainProcess][MainThread]: >>> VRP model, load limit mode, start
